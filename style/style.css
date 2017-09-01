@@ -162,6 +162,11 @@ a:link {
   background:
     url('../images/java.png') bottom right 15% no-repeat #46B6AC;
 }
+.demo-card-square > .splasher {
+  color: #fff;
+  background:
+    url('../images/java.png') bottom right 15% no-repeat #46B6AC;
+}
 .left-contact-icon {
   font-size: 80px;
   text-align: left;
